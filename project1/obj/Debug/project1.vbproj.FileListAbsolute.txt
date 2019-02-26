@@ -1,0 +1,14 @@
+D:\vb\project1\project1\bin\Debug\project1.exe.config
+D:\vb\project1\project1\bin\Debug\project1.exe
+D:\vb\project1\project1\bin\Debug\project1.pdb
+D:\vb\project1\project1\bin\Debug\project1.xml
+D:\vb\project1\project1\obj\Debug\project1.vbprojResolveAssemblyReference.cache
+D:\vb\project1\project1\obj\Debug\project1.Form1.resources
+D:\vb\project1\project1\obj\Debug\project1.Resources.resources
+D:\vb\project1\project1\obj\Debug\project1.vbproj.GenerateResource.Cache
+D:\vb\project1\project1\obj\Debug\project1.exe
+D:\vb\project1\project1\obj\Debug\project1.xml
+D:\vb\project1\project1\obj\Debug\project1.pdb
+D:\vb\project1\project1\obj\Debug\project1.longin.resources
+D:\vb\project1\project1\obj\Debug\project1.main.resources
+D:\vb\project1\project1\obj\Debug\project1.employee.resources
